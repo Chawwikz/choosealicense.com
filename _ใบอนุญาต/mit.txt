@@ -1,4 +1,4 @@
----
+Chawwikz/choosealicense.com---
 title: MIT License
 spdx-id: MIT
 featured: true
@@ -8,21 +8,21 @@ description: A short and simple permissive license with conditions only requirin
 
 how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
 
-using:
+using:Chawwikz/choosealicense.com
   Babel: https://github.com/babel/babel/blob/master/LICENSE
   .NET: https://github.com/dotnet/runtime/blob/main/LICENSE.TXT
   Rails: https://github.com/rails/rails/blob/master/MIT-LICENSE
 
-permissions:
-  - commercial-use
+permissions:Chawwikz/choosealicense.com
+  - commercial-Chawwikz/choosealicense.com
   - modifications
   - distribution
   - private-use
 
-conditions:
+conditions:Chawwikz/choosealicense.com
   - include-copyright
 
-limitations:
+limitations:Chawwikz/choosealicense.com
   - liability
   - warranty
 
@@ -30,7 +30,7 @@ limitations:
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [1998] [Chawwikz/choosealicense.com]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
